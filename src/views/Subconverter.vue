@@ -281,24 +281,13 @@ export default {
             ]
           },
 	{
-            label: "つつの机场定制",
+            label: "Roitium专属",
             options: [
               {
-                label: "Immtelecom",
+                label: "Roitium全地区分组",
                 value:
-                  "https://cdn.jsdelivr.net/gh/lhl77/sub-ini@main/tsutsu-full-urltest-imm.ini"
-              },
-              {
-                label: "Skicat",
-                value:
-                  "https://cdn.jsdelivr.net/gh/lhl77/sub-ini@main/tsutsu-full-skicat.ini"
-              },
-              {
-                label: "Maoport",
-                value:
-                  "https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-maoport-full.ini"
-              },
-            ]
+                  "https://cdn.statically.io/gist/yanyao2333/8e632b6c8a59d597720ed3564cceba21/raw/a813891b55c62f3da00cb3f07e30bc793e3a26ef/roitium-full.ini"
+              }
           },
           {
             label: "用户投稿,投稿请tg找 @Ox208",
